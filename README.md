@@ -1,3 +1,5 @@
+I like pretty GitHub commit timeline, don't really care about it otherwise. Hello if you found this lol
+
 Contribution: 2023-11-08 20:00
 
 Contribution: 2023-11-08 20:01
